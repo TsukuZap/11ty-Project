@@ -3,5 +3,7 @@ layout: layout.liquid
 title: About
 ---
 
-# About Banana the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+<p>The site is about three items that almost never are not on my person when I head out for the day</p>
+<img alt="Keys" src="/images/Keys.png" width="300" />
+<img alt="Backpack" src="/images/Backpack.png" width="300" />
+<a href= "/Wallet/"><img alt="Wallet" src="/images/Wallet.png" width="300" />
